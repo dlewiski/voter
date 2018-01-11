@@ -1,0 +1,19 @@
+.over21 {
+  display: none;
+}
+
+#over21well {
+  background-color: #D8DBF7;
+}
+
+.under21 {
+  display: none;
+}
+
+#under21well {
+  background-color: #F9C3C3;
+}
+
+.jumbotron {
+  text-align: center;
+}
